@@ -3,9 +3,23 @@ wall of shields
 standing strong
 on this their chosen battle field
 
+<<<<<<< HEAD
+=======
+<<<<<<< Updated upstream
+March as one
+Don't look back
+Oden's sons
+Attack!
+=======
+>>>>>>> feature
 Form the lines
 Shield by shield
 Side by side
 We're marching into destiny
 
+<<<<<<< HEAD
 connect to be saved
+=======
+connect to be saved
+>>>>>>> Stashed changes
+>>>>>>> feature
